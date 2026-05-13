@@ -35,9 +35,7 @@
 
 ---
 
-## 🏅 Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inan0226&show_icons=true&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff" alt="Inan's Github Stat" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inan0226&layout=compact&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff" alt="Top Langs" />
+<div align="center">
+  <h3>🧊 Knowledge Topography (Contribution)</h3>
+  <img src="https://raw.githubusercontent.com/inan0226/inan0226/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D 잔디 그래프"/>
 </div>

@@ -3,7 +3,7 @@
 </div>
 
 ## 안녕하세요 Inan 입니다 !
-**초심을 잃어버리지 않게 노력하는 개발자**
+** 야무지게 구글링 & AI 활용하는 백엔드 개발자**
 
 ---
 
@@ -30,6 +30,16 @@
   </a>
   <a href="https://www.instagram.com/inangod/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+</div>
+
+## 📊 GitHub Stats & Contributions
+<div align="center">
+  <a href="https://github.com/inan0226">
+    <img
+      width="390"
+      src="https://my-readme-stats.vercel.app/api?username=inan0226&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&hide_border=true&title_color=2f81f7&text_color=ffffff&icon_color=2f81f7"
+    />   
   </a>
 </div>
 
